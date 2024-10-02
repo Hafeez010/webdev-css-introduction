@@ -1,0 +1,10 @@
+body { 
+   font-family: helvetica, arial, sans-serif; color: #000099; 
+   background-color: #FFFFCC; 
+}
+.maintext { font-size: 12px;
+    color: #000;
+}
+.highlight{
+    color:#FF0000;
+}
